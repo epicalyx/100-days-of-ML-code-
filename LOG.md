@@ -16,3 +16,15 @@
 **Thoughts** : The course is well suited for beginners. The video lectures are short yet descriptive and make the concepts really easy to grasp.
 
 **Link to work** : https://developers.google.com/machine-learning/crash-course/ml-intro
+
+
+## Day 2 : September 27 , 2018
+
+
+**Today's Progress** : Learned about Gradient Descent Algorithm for Linear Regression Model from Coursera's ML course for conceptual understanding. For implementation purposes, took help from online resources and wrote basic code for simple linear regression.
+
+**Thoughts** : It was fun learning from Coursera's ML course by Andrew Ng. He teaches ML concepts in a very unique way making them interesting for learner of any level. 
+
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/SimpleLinearRegression.ipynb
+      
+    
