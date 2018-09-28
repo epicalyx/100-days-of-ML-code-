@@ -26,5 +26,15 @@
 **Thoughts** : It was fun learning from Coursera's ML course by Andrew Ng. He teaches ML concepts in a very unique way making them interesting for learner of any level. 
 
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/SimpleLinearRegression.ipynb
+
+
+## Day 3 : September 28 , 2018
+
+
+**Today's Progress** : Completed upto Validation from Google ML Crash Course.
+
+**Thoughts** : The concepts are really well explained in video lectures. 
+
+**Link to work** : https://developers.google.com/machine-learning/crash-course/validation/programming-exercise
       
     
