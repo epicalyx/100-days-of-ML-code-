@@ -36,5 +36,18 @@
 **Thoughts** : The concepts are really well explained in video lectures. 
 
 **Link to work** : https://developers.google.com/machine-learning/crash-course/validation/programming-exercise
+
+
+## Day 4 : September 29 , 2018
+
+
+**Today's Progress** : Implemented a simple model for house price prediction using univariate linear regression using scikit-learn library.Will be adding more to this implementation code for proper prediction of prices. For understanding how to implement the code I went through Udemy's Machine Learning course. 
+
+**Thoughts** : The contents of the lectures are good. All the steps for analysing the data are well explained. 
+
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/House%20Price%20Prediction%20using%20Simple%20Linear%20Regression.py
+
+
+    
       
     
