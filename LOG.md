@@ -48,6 +48,14 @@
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/House%20Price%20Prediction%20using%20Simple%20Linear%20Regression.py
 
 
+## Day 5 : September 30 , 2018
+
+
+**Today's Progress** : Learned about multivariate linear regression, feature scaling and polynomial regression from Cousera ML lectures.
+
+**Thoughts** : The maths behind the algorithms is well explained in the course. Looking forward to implement these algorithms.
+
+
     
       
     
