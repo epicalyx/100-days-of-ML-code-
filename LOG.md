@@ -56,6 +56,16 @@
 **Thoughts** : The maths behind the algorithms is well explained in the course. Looking forward to implement these algorithms.
 
 
+## Day 6 : October 1 , 2018
+
+
+**Today's Progress** : Started with Linear Algebra today and will be continuing it.
+
+**Thoughts** : Having a good grasp on linear algebra concepts is very important in ML.
+
+**Link to work** : https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8
+
+
     
       
     
