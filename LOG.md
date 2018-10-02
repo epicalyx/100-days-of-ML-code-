@@ -66,6 +66,16 @@
 **Link to work** : https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8
 
 
+## Day 7 : October 2 , 2018
+
+
+**Today's Progress** : Continued with linear algebra lectures.
+
+**Thoughts** : The video lectures by Gilbert Strang sir are great and are really comprehensive.
+
+**Link to work** : https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8
+
+
     
       
     
