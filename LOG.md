@@ -76,6 +76,16 @@
 **Link to work** : https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8
 
 
+## Day 8 : October 3 , 2018
+
+
+**Today's Progress** : Implemented Gradient Descent Algorithm from scratch.Had a lot of errors at the beginning but the following "Medium" post cleared all my doubts: https://medium.com/@zhaoyi0113/python-implementation-of-batch-gradient-descent-379fa19eb428. It was really helpful.
+
+**Thoughts** : The algorithms are very well explained in Coursera course. Implementing them is fun.
+
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/gradient_descent.ipynb
+
+
     
       
     
