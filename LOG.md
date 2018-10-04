@@ -86,6 +86,16 @@
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/gradient_descent.ipynb
 
 
+## Day 9 : October 4 , 2018
+
+
+**Today's Progress** : Continued with linear algebra lectures.
+
+**Thoughts** :  The concepts are interesting. 
+
+**Link to work** : https://www.youtube.com/watch?v=JibVXBElKL0&list=PLE7DDD91010BC51F8&index=5
+
+
     
       
     
