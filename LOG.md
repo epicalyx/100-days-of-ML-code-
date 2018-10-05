@@ -99,7 +99,7 @@
 ## Day 10 October 5 , 2018
 
 
-**Today's Progress : Studied normal equation from Coursera ML course.
+**Today's Progress** : Studied normal equation from Coursera ML course.
 
 **Thoughts** : The concepts are good.
 
