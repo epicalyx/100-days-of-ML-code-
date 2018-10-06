@@ -104,6 +104,16 @@
 **Thoughts** : The concepts are good.
 
 
+## Day 11 October 6 , 2018
+
+
+**Today's Progress** : Continued with linear algebra lectures.
+
+**Thoughts** : Linear Algebra is a fundamental concept that needs to be learned as a part of Machine Learning.
+
+**Link to work** :  https://www.youtube.com/watch?v=ZK3O402wf1c&index=1&list=PLE7DDD91010BC51F8
+
+
 
 
     
