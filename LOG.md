@@ -114,6 +114,16 @@
 **Link to work** :  https://www.youtube.com/watch?v=ZK3O402wf1c&index=1&list=PLE7DDD91010BC51F8
 
 
+## Day 12 October 7 , 2018
+
+
+**Today's Progress** : Implemented normal equation for linear regression from scratch.
+
+**Thoughts** : Had fun implementing this algorithm. Benchmarking is yet to be done.
+
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/normal_equation.py
+
+
 
 
     
