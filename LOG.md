@@ -124,6 +124,14 @@
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/normal_equation.py
 
 
+## Day 13 October 8 , 2018
+
+
+**Today's Progress** : Started learning python libraries - numpy and pandas.
+
+**Thoughts** : Learning about these libraries is fun and gives us an intuition as to why these are so important in implementing Machine Learning algorithms.
+
+
 
 
     
