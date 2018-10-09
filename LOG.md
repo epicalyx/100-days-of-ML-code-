@@ -132,6 +132,15 @@
 **Thoughts** : Learning about these libraries is fun and gives us an intuition as to why these are so important in implementing Machine Learning algorithms.
 
 
+## Day 14 October 9 , 2018
+
+
+**Today's Progress** : Continued with the linear algebra lectures and the python libraries.
+
+**Thoughts** : Study of linear algebra and python libraries really help in understanding the algorithms more efficiently.
+
+
+
 
 
     
