@@ -140,6 +140,16 @@
 **Thoughts** : Study of linear algebra and python libraries really help in understanding the algorithms more efficiently.
 
 
+## Day 15 October 10 , 2018
+
+
+**Today's Progress** : Continued with Google ML crash course.
+
+**Thoughts** : The concepts are nicely explained and the programming exercises are very well designed to make the concepts clear.
+
+**Link to work** : https://developers.google.com/machine-learning/crash-course/representation/programming-exercise
+
+
 
 
 
