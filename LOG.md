@@ -150,6 +150,14 @@
 **Link to work** : https://developers.google.com/machine-learning/crash-course/representation/programming-exercise
 
 
+## Day 16 October 11 , 2018
+
+
+**Today's Progress** : Continued with linear algebra lectures and python library - matplotlib.
+
+**Thoughts** : Learning about how these libraries actually work is fun.
+
+
 
 
 
