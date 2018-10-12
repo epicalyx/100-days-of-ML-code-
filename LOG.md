@@ -158,6 +158,14 @@
 **Thoughts** : Learning about how these libraries actually work is fun.
 
 
+## Day 17 October 12 , 2018
+
+
+**Today's Progress** : Studied Logistic Regression from Coursera ML course.
+
+**Thoughts** : The concepts are really simplified in the lectures for better understanding.
+
+
 
 
 
