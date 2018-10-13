@@ -166,6 +166,16 @@
 **Thoughts** : The concepts are really simplified in the lectures for better understanding.
 
 
+## Day 18 October 13 , 2018
+
+
+**Today's Progress** : Implemented logistic regression from scratch.
+
+**Thoughts** : It is an interesting algorithm and learning about the probalistic methods behind this algorithm was fun. The following   Medium post is great for learning about the maths for this concept : https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/logistic_regression.py
+
+
 
 
 
