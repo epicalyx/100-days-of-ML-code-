@@ -176,6 +176,14 @@
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/logistic_regression.py
 
 
+## Day 19 , October 14 , 2018
+
+
+**Today's Progress** : Continued with linear algebra lectures.
+
+**Thoughts** : The concepts are interesting.
+
+
 
 
 
