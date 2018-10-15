@@ -184,6 +184,14 @@
 **Thoughts** : The concepts are interesting.
 
 
+## Day 20 , October 15 , 2018
+
+
+**Today's Progress** : Learned about regularization, ridge regression and lasso regression in brief. 
+
+**Thoughts** : These topics are interesting and I will be continuing with them tomorrow.
+
+
 
 
 
