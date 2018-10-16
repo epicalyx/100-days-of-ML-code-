@@ -192,6 +192,14 @@
 **Thoughts** : These topics are interesting and I will be continuing with them tomorrow.
 
 
+## Day 21 , October 16 , 2018
+
+
+**Today's Progress** : Continued with regularization and started with documentation about using Kaggle platform.
+
+**Thoughts** : Kaggle is a great platform to improve machine learning skills. It has interesting problem statements and datasets. The course available on Kaggle for machine learning is also nice.
+
+
 
 
 
