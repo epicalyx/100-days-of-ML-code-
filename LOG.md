@@ -200,6 +200,14 @@
 **Thoughts** : Kaggle is a great platform to improve machine learning skills. It has interesting problem statements and datasets. The course available on Kaggle for machine learning is also nice.
 
 
+## Day 22 , October 17 , 2018
+
+
+**Today's Progress** : Continued with regularization algorithms for linear and logistic regression.
+
+**Thoughts** : The video lectures by Andrew Ng sir are great. He makes each and every concept clear.
+
+
 
 
 
