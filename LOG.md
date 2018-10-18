@@ -208,6 +208,14 @@
 **Thoughts** : The video lectures by Andrew Ng sir are great. He makes each and every concept clear.
 
 
+## Day 23 , October 18 , 2018
+
+
+**Today's Progress** : Tried implementing regularization for linear and logistic regression.
+
+**Thoughts** : Had many errors, tried debugging but a few are still there. Will continue with this tomorrow.
+
+
 
 
 
