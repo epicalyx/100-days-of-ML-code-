@@ -227,7 +227,7 @@ https://medium.com/@k_dasaprakash/logistic-regression-5b371cc0824f,
 http://aimotion.blogspot.com/2011/11/machine-learning-with-python-logistic.html   
 really helped me debug my program since my foundation of python libraries like matplotlib aren't strong enough yet. Though the main algorithm of polynomial ridge regression was interesting to implement.
 
-**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/regularized_logistic_regression.ipynb
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/regularized_logistic_regression.py
 
 
 
