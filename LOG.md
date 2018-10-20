@@ -230,6 +230,15 @@ really helped me debug my program since my foundation of python libraries like m
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/regularized_logistic_regression.py
 
 
+## Day 25 , October 20 , 2018
+
+
+**Today's Progress** : Started with neural networks from Coursera ML course.
+
+**Thoughts** : Excited to learn how they work and to implement them in future.
+
+
+
 
 
 
