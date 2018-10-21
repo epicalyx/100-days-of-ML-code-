@@ -238,6 +238,14 @@ really helped me debug my program since my foundation of python libraries like m
 **Thoughts** : Excited to learn how they work and to implement them in future.
 
 
+## Day 26 , October 21 , 2018
+
+
+**Today's Progress** : Continued with neural networks.
+
+**Thoughts** : The concepts are really interesting.
+
+
 
 
 
