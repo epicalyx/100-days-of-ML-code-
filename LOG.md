@@ -246,6 +246,16 @@ really helped me debug my program since my foundation of python libraries like m
 **Thoughts** : The concepts are really interesting.
 
 
+## Day 27 , October 22 , 2018
+
+
+**Today's Progress** : Studied backpropagation algorithm and the calculus behind it.
+
+**Thoughts** : The algorithm is quite complex but it is very interesting to learn how it works.
+
+**Link to work** : https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1
+
+
 
 
 
