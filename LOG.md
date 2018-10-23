@@ -256,6 +256,15 @@ really helped me debug my program since my foundation of python libraries like m
 **Link to work** : https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1
 
 
+## Day 28 , October 23 , 2018
+
+
+**Today's Progress** : Continued with neural networks and watched interesting videos on how machine learning evolved over the years.
+
+**Thoughts** : The concepts are amazingly explained here: 1. https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
+and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV
+
+
 
 
 
