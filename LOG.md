@@ -265,6 +265,13 @@ really helped me debug my program since my foundation of python libraries like m
 and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV
 
 
+## Day 29 , October 24 , 2018
+
+
+**Today's Progress** : Studied tensorflow today.
+
+**Thoughts** : The concepts are quite complex but are very interesting.
+
 
 
 
