@@ -273,6 +273,13 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : The concepts are quite complex but are very interesting.
 
 
+## Day 30 , October 25 , 2018
+
+
+**Today's Progress** : Continued with tensorflow.
+
+**Thoughts** : It is a great tool for machine learning and deep learning problems.
+
 
 
 
