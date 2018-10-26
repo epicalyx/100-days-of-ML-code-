@@ -281,6 +281,16 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : It is a great tool for machine learning and deep learning problems.
 
 
+## Day 31 , October 26 , 2018
+
+
+**Today's Progress** : Started with "fastai" series for machine learning.
+
+**Thoughts** : The method of teaching is excellent. I hope to get a good grasp on Random Forests algorithm from this series.
+
+**Link to work** : http://course.fast.ai/ml.html
+
+
 
 
     
