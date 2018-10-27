@@ -291,6 +291,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Link to work** : http://course.fast.ai/ml.html
 
 
+## Day 32 , October 27 , 2018
+
+
+**Today's Progress** : Tried implementing neural network today.
+
+**Thoughts** : Had a lot of errors but it was worth the time. Implementing an algorithm gives a lot of intuition about it. I will continue with the debugging process tomorrow.
+
+
 
 
     
