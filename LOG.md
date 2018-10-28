@@ -299,6 +299,19 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Had a lot of errors but it was worth the time. Implementing an algorithm gives a lot of intuition about it. I will continue with the debugging process tomorrow.
 
 
+## Day 33 , October 28 , 2018
+
+
+**Today's Progress** : Studied more on neural networks.
+
+**Thoughts** : An interesting thing about Machine Learning is that we will never fall short of concepts to learn about!
+
+**Link to work** : http://neuralnetworksanddeeplearning.com/chap1.html
+
+
+
+
+
 
 
     
