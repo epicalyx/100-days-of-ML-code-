@@ -309,6 +309,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Link to work** : http://neuralnetworksanddeeplearning.com/chap1.html
 
 
+## Day 34 , October 29 , 2018
+
+
+**Today's Progress** : Today, I started revising everything covered uptil now.
+
+**Thoughts** : Revision is very important!
+
+
 
 
 
