@@ -317,6 +317,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Revision is very important!
 
 
+## Day 35 , October 30 , 2018
+
+
+**Today's Progress** : Continued with the book -> http://neuralnetworksanddeeplearning.com/chap1.html
+
+**Thoughts** : A complex model like neural network is explained in a simplified manner in this book. Great for beginners! 
+
+
 
 
 
