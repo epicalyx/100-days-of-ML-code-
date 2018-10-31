@@ -325,6 +325,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : A complex model like neural network is explained in a simplified manner in this book. Great for beginners! 
 
 
+## Day 36 , October 31 , 2018
+
+
+**Today's Progress** : Continued with linear algebra and studied data structures today.
+
+**Thoughts** : Maths and data structures are very important for better understanding of ML concepts.
+
+
 
 
 
