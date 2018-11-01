@@ -333,6 +333,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Maths and data structures are very important for better understanding of ML concepts.
 
 
+## Day 37 , November 1 , 2018
+
+
+**Today's Progress** : Continued with Linear Algebra and revised calulus.
+
+**Thoughts** : Revision is very important.
+
+
 
 
 
