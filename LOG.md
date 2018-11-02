@@ -341,6 +341,13 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Revision is very important.
 
 
+## Day 38 , November 2 , 2018
+
+
+**Today's Progress** : Implemented neural network from scratch.
+
+**Thoughts** : Still have some bugs. Will continue with the debugging process tomorrow.
+
 
 
 
