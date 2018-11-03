@@ -349,6 +349,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Still have some bugs. Will continue with the debugging process tomorrow.
 
 
+## Day 39 , November 3 , 2018
+
+
+**Today's Progress** : Studied about bias variance trade off and how to choose your model and hyperparameters to increase accuracy.
+
+**Thoughts** : These are important ML concepts.
+
+
 
 
 
