@@ -357,6 +357,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : These are important ML concepts.
 
 
+## Day 40 , November 4 , 2018
+
+
+**Today's Progress** : Studied Support Vector Machines today.
+
+**Thoughts** : The Coursera lectures by Andrew Ng sir are great for beginners to start their journey in ML.
+
+
 
 
 
