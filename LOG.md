@@ -365,6 +365,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : The Coursera lectures by Andrew Ng sir are great for beginners to start their journey in ML.
 
 
+## Day 41 , November 5 , 2018
+
+
+**Today's Progress** : Studied K-means algorithm and PCA today.
+
+**Thoughts** : These techniques are very interesting. It will be fun implementing them.
+
+
 
 
 
