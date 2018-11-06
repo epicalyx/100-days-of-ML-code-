@@ -373,6 +373,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : These techniques are very interesting. It will be fun implementing them.
 
 
+## Day 42 , November 6 , 2018
+
+
+**Today's Progress** : Studied Anomaly Detection and about Recommender Systems.
+
+**Thoughts** : Now that I have studied the major techniques I will start implementing them one by one.
+
+
 
 
 
