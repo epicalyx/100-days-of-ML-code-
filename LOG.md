@@ -381,6 +381,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Now that I have studied the major techniques I will start implementing them one by one.
 
 
+## Day 43 , November 7 , 2018
+
+
+**Today's Progress** : Continued with linear algebra and calculus today.
+
+**Thoughts** : Maths is very important for ML.
+
+
 
 
 
