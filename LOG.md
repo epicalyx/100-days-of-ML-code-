@@ -389,6 +389,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Maths is very important for ML.
 
 
+## Day 44 , November 8 , 2018
+
+
+**Today's Progress** : Started with CS 229 stanford course by Andrew Ng sir.
+
+**Thoughts** : Great course for in-depth knowledge of ML concepts.
+
+
 
 
 
