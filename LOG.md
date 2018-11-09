@@ -397,6 +397,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Great course for in-depth knowledge of ML concepts.
 
 
+## Day 45 , November 9 , 2018
+
+
+**Today's Progress** : Studied Data structures today - an important pre-requisite for CS-229 course.
+
+**Thoughts** : Data structures are fun!
+
+
 
 
 
