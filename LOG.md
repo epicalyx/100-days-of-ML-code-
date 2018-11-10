@@ -405,6 +405,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Data structures are fun!
 
 
+## Day 46 , November 10 , 2018
+
+
+**Today's Progress** : Continued with CS- 229 lectures.
+
+**Thoughts** : The maths behind every algorithm is beautifully explained.
+
+
 
 
 
