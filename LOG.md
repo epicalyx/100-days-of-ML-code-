@@ -413,6 +413,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : The maths behind every algorithm is beautifully explained.
 
 
+## Day 47 , November 11 , 2018
+
+
+**Today's Progress** : Implemented linear and logistic regression on a different dataset today.
+
+**Thoughts** : Revision is important.
+
+
 
 
 
