@@ -421,6 +421,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Revision is important.
 
 
+## Day 48 , November 12 , 2018
+
+
+**Today's Progress** : Studied SVM in detail from CS-229 lectures.
+
+**Thoughts** : Great concept and amazingly taught.
+
+
 
 
 
