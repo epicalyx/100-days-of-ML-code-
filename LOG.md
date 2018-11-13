@@ -429,6 +429,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Great concept and amazingly taught.
 
 
+## Day 49 , November 13 , 2018
+
+
+**Today's Progress** : Studied Naive Bayes.
+
+**Thoughts** : The maths behind this is quite interesting and gives a better intuition about the learning algorithm.
+
+
 
 
 
