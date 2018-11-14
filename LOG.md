@@ -437,6 +437,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : The maths behind this is quite interesting and gives a better intuition about the learning algorithm.
 
 
+## Day 50 , November 14 , 2018
+
+
+**Today's Progress** : Continued with CS-229 lectures.
+
+**Thoughts** : Great content!
+
+
 
 
 
