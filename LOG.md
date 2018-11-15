@@ -445,6 +445,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Great content!
 
 
+## Day 51 , November 15 , 2018
+
+
+**Today's Progress** : Revised calculus today.
+
+**Thoughts** : Calculus is very important in order to understand the maths behind algorithms.
+
+
 
 
 
