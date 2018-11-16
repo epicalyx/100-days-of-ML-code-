@@ -453,6 +453,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Calculus is very important in order to understand the maths behind algorithms.
 
 
+## Day 52 , November 16 , 2018
+
+
+**Today's Progress** : Continued with CS-229 lectures.
+
+
+
+
 
 
 
