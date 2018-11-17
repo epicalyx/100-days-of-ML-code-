@@ -459,6 +459,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Today's Progress** : Continued with CS-229 lectures.
 
 
+## Day 53 , November 17 , 2018
+
+
+**Today's Progress** : Researched about different ML projects.
+
+**Thoughts** : We can make a great change with AI
+
+
 
 
 
