@@ -467,6 +467,16 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : We can make a great change with AI
 
 
+## Day 54 , November 18 , 2018
+
+
+**Today's Progress** : Tried the titanic problem of Kaggle.
+
+**Thoughts** : It was fun solving the problem, trying different feature engineering techniques and comparing different classifiers. It was a great experience!
+
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/titanic_kaggle.ipynb
+
+
 
 
 
