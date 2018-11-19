@@ -477,6 +477,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/titanic_kaggle.ipynb
 
 
+## Day 55 , November 19 , 2018
+
+
+**Today's Progress** : Studied about pandas and numpy.
+
+**Thoughts** : These are very important libraries for data science in python.
+
+
 
 
 
