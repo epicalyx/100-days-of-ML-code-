@@ -485,6 +485,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : These are very important libraries for data science in python.
 
 
+## Day 56 , November 20 , 2018
+
+
+**Today's Progress** : Studied a little about spam classification using SVM.
+
+
+
+
 
 
 
