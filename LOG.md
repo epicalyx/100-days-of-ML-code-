@@ -491,6 +491,16 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Today's Progress** : Studied a little about spam classification using SVM.
 
 
+## Day 57 , November 21 , 2018
+
+
+**Today's Progress** : Tried implementing email spam classification.
+
+**Thoughts** : It was fun exploring the concepts of text classification and applying ML models to it. Helpful resources : https://appliedmachinelearning.blog/2017/01/23/email-spam-filter-python-scikit-learn/ and https://www.kaggle.com/benvozza/spam-classification/notebook. 
+
+**Link to work** : https://github.com/epicalyx/Machine-Learning-Projects/blob/master/email_spam_classification.ipynb
+
+
 
 
 
