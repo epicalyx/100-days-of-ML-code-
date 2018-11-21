@@ -498,7 +498,7 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 
 **Thoughts** : It was fun exploring the concepts of text classification and applying ML models to it. Helpful resources : https://appliedmachinelearning.blog/2017/01/23/email-spam-filter-python-scikit-learn/ and https://www.kaggle.com/benvozza/spam-classification/notebook. 
 
-**Link to work** : https://github.com/epicalyx/Machine-Learning-Projects/blob/master/email_spam_classification.ipynb
+**Link to work** : https://github.com/epicalyx/Machine-Learning-Projects/blob/master/spam_classifier.ipynb
 
 
 
