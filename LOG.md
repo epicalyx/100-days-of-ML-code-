@@ -501,6 +501,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Link to work** : https://github.com/epicalyx/Machine-Learning-Projects/blob/master/spam_classifier.ipynb
 
 
+## Day 58 , November 22 , 2018
+
+
+**Today's Progress** : Revised some concepts.
+
+**Thoughts** : Revision is very helpful and should be done as and when required before moving any further.
+
+
 
 
 
