@@ -509,6 +509,12 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Revision is very helpful and should be done as and when required before moving any further.
 
 
+## Day 59 and 60 , November 23 and November 24 , 2018
+
+
+**Progress** : Continued with CS-229 course
+
+
 
 
 
