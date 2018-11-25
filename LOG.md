@@ -515,6 +515,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Progress** : Continued with CS-229 course
 
 
+## Day 61 , November 25 , 2018
+
+
+**Today's Progress** : Researched about different ML projects and their social impacts.
+
+**Some interesting links** : https://www.youtube.com/watch?v=_cYIvfS-knA and https://www.youtube.com/watch?v=U88Ya9krtBk 
+
+
 
 
 
