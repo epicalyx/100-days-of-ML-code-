@@ -523,6 +523,12 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Some interesting links** : https://www.youtube.com/watch?v=_cYIvfS-knA and https://www.youtube.com/watch?v=U88Ya9krtBk 
 
 
+## Day 62 and 63 , November 26 and November 27 , 2018
+
+
+**Progress** : Continued with CS-229 course
+
+
 
 
 
