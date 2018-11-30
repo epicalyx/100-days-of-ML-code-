@@ -529,6 +529,12 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Progress** : Continued with CS-229 course
 
 
+## Day 64 , 65 and 66 , November 28 , 29 and 30 , 2018
+
+
+**Progress** : Explored some real life applications of ML. Continued with CS-229 course. Studied Artificial Neural Nets.
+
+
 
 
 
