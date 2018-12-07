@@ -544,8 +544,7 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 ## Day 70 , 71 and 72 , December 4 , 5 and 6 , 2018
 
 
-**Progress** : Revised algorithms
-
+**Progress** : Started with KNN and revised other algorithms.
 
 
 
