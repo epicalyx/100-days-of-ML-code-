@@ -547,6 +547,26 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Progress** : Started with KNN and revised other algorithms.
 
 
+## Day 73 , 74 and 75 , December 7 , 8 and 9 , 2018
+
+
+**Progress** : Studies about Decision Trees and Random Forests.
+
+
+## Day 76 , 77 and 78 , December 10 , 11 and 12 , 2018
+
+
+**Progress**: Studied real life applications of different algorithms , particularly Random Forests
+
+
+## Day 79 , December 13 , 2018
+
+
+**Today's Progress** : Studied how to implement decision trees from scratch.
+
+**Thoughts** : Implementing an algorithm from scratch gives a better intuition of and command over that concept.
+
+
 
 
 
