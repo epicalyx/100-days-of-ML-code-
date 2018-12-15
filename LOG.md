@@ -567,6 +567,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : Implementing an algorithm from scratch gives a better intuition of and command over that concept.
 
 
+## Day 80 and 81 , December 14 and 15 , 2018
+
+
+**Progress** : Implemented neural network from scratch. Helpful resource and credit:https://www.youtube.com/watch?v=vcZub77WvFA&index=6&list=PL2-dafEMk2A7mfQDsEcmxxtxgFEZg0bW-
+
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/neural_net.py
+
+
 
 
 
