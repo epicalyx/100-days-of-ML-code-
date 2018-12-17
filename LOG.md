@@ -575,6 +575,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/neural_net.py
 
 
+## Day 82 and 83 , December 16 and 17 , 2018
+
+
+**Progress** : Studied KNN and how to implement it from scratch from sentdex ML tutorial.
+
+**Thoughts** : All the algorithms and their implementations are taught really well on sentdex channel. 
+
+
 
 
 
