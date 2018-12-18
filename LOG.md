@@ -583,6 +583,16 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : All the algorithms and their implementations are taught really well on sentdex channel. 
 
 
+## Day 84 ,December 18 , 2018
+
+
+**Today's Progress** : Implemented KNN using scikit learn and from scratch. Also tried implementing decision trees on the same dataset but there are still few errors in that program.
+
+**Thoughts** : It was really fun implementing these algorithms, debugging them and playing with the dataset. Helpful Source and Credit for KNN -> sentdex ML course.
+
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/knn.ipynb
+
+
 
 
 
