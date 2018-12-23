@@ -593,6 +593,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/knn.ipynb
 
 
+## Day 85 , 86 , 87 , 88 , 89 , December 19 , 2018 - December 23 , 2018
+
+
+**Progress** : Studied decision trees and random forests from fast.ai lectures.
+
+**Thoughts** : The lectures are great and follow a smart approach.
+
+
 
 
 
