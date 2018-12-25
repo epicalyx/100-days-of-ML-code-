@@ -601,6 +601,12 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Thoughts** : The lectures are great and follow a smart approach.
 
 
+## Day 90 and 91 , December 24 and December 25 , 2018
+
+
+**Progress** : Continued with fast.ai course.
+
+
 
 
 
