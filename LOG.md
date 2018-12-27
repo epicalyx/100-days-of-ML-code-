@@ -607,6 +607,12 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Progress** : Continued with fast.ai course.
 
 
+## Day 92 and 93 , December 26 and December 27 , 2018
+
+
+**Progress** : Continued with fast.ai course and practiced it on google colab.
+
+
 
 
 
