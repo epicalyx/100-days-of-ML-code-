@@ -620,6 +620,8 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 
 **Thoughts** : Applying different models on the same dataset gives intuition about the relationship between the model and the dataset it will best fit to.
 
+**Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/cancer_prediction.ipynb
+
 
 
 
