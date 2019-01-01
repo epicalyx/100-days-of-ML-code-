@@ -613,6 +613,14 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Progress** : Continued with fast.ai course and practiced it on google colab.
 
 
+## Day 94 - Day 98 , December 28 , 2018 - December 31 , 2018 and January 1 , 2019
+
+
+**Progress** : Studied implementation of different classifiers and applied them to breast cancer prediction dataset.
+
+**Thoughts** : Applying different models on the same dataset gives intuition about the relationship between the model and the dataset it will best fit to.
+
+
 
 
 
