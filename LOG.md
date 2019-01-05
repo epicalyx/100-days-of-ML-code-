@@ -623,6 +623,20 @@ and here 2. https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8Ah
 **Link to work** : https://github.com/epicalyx/100-days-of-ML-code-/blob/master/cancer_prediction.ipynb
 
 
+## Day 99 , January 2 , 2019
+
+
+**Progress** : Revised all models covered uptil now.
+
+
+## Day 100 , January 3 , 2019
+
+
+**Progress** : Studied different real life applications of AI.
+
+**Thoughts** : Now I want to take up a ML project with a purpose to solve a real life pressing issue. I will be continuing the learning process in this field since there will always be more to learn!
+
+
 
 
 
